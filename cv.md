@@ -45,4 +45,6 @@ function filterLongWords(sentence, n) {
 
 ### Languages:
 
-[English - B2 Upper-intermediate](https://www.efset.org/cert/ZmKtRJ)
+* [English - B2 Upper-intermediate](https://www.efset.org/cert/ZmKtRJ)
+* Ukrainian - Native
+* Russian - Intermediate

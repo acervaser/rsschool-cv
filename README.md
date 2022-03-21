@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://acervaser.github.io/rsschool-cv/cv
