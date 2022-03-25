@@ -1,0 +1,14 @@
+.text-italic {
+    font-style: italic;
+
+}
+
+.code-example{
+    background-color: antiquewhite;
+margin-top: 0;
+
+}
+
+.code{
+    font-family: 'Red Hat Mono', monospace;
+}
